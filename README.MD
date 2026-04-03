@@ -49,3 +49,14 @@
 <div align="center">
 *“Os dados são o novo petróleo, mas a IA é a refinaria.”*
 </div>
+
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizvictxz/luizvictxz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizvictxz/luizvictxz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luizvictxz/luizvictxz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
