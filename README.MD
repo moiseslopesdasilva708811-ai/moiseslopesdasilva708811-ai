@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moiseslopesdasilva708811-ai&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
-
+![Gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmUxZWo4aDBrZHVpZW5meTRlYW51cG5rNHRraHU4cTlmcTRheml3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wpoLqr5FT1sY0/giphy.gif)
 ---
 ### 🚀 Sobre mim
 Sou um entusiasta de tecnologia focado em **Inteligência Artificial** e **MLOps**. Gosto de transformar dados brutos em insights inteligentes e modelos funcionais. Tenho experiência na programação de sistemas embarcados inovadores de baixo custo para a melhoria de automação de problemas diários no setor agrícola brasileiro.
