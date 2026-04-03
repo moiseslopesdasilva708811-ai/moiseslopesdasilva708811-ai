@@ -5,7 +5,7 @@
 </div>
 
 ### 🚀 Sobre mim
-Sou um entusiasta de tecnologia focado em **Inteligência Artificial** e **MLOps**. Gosto de transformar dados brutos em insights inteligentes e modelos funcionais.
+Sou um entusiasta de tecnologia focado em **Inteligência Artificial** e **MLOps**. Gosto de transformar dados brutos em insights inteligentes e modelos funcionais. Tenho experiência na programação de sistemas embarcados inovadores de baixo custo para a melhoria de automação de problemas diários no setor agrícola brasileiro.
 
 - 🎓 **Graduação:** Cursando **Engenharia de Computação** na Universidade Federal do Rio Grande do Norte (**UFRN**).
 - 🎓 **Formação:** Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte
