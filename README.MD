@@ -1,14 +1,16 @@
-# Olá, eu sou o Moisés Lopes! 👋 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Mois%C3%A9s+Lopes!+%F0%9F%91%8B;Engenheiro+de+Computa%C3%A7%C3%A3o+na+UFRN;Entusiasta+em+IA+%26+MLOps;Focado+em+Sistemas+Embarcados." alt="Typing SVG" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moiseslopesdasilva708811-ai&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moiseslopesdasilva708811-ai&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
 </div>
 
 ### 🚀 Sobre mim
 Sou um entusiasta de tecnologia focado em **Inteligência Artificial** e **MLOps**. Gosto de transformar dados brutos em insights inteligentes e modelos funcionais. Tenho experiência na programação de sistemas embarcados inovadores de baixo custo para a melhoria de automação de problemas diários no setor agrícola brasileiro.
 
 - 🎓 **Graduação:** Cursando **Engenharia de Computação** na Universidade Federal do Rio Grande do Norte (**UFRN**).
-- 🎓 **Formação:** Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte
+- 📜 **Formação:** Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (**IFRN**).
 - 🎯 **Foco atual:** Deep Learning com PyTorch e automação de pipelines de dados.
 - ⚡ **Curiosidade:** Adoro resolver problemas complexos com soluções simples e escaláveis.
 
@@ -27,7 +29,7 @@ Sou um entusiasta de tecnologia focado em **Inteligência Artificial** e **MLOps
 
 ### 📊 Meu GitHub em Números
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moiseslopesdasilva708811-ai&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moiseslopesdasilva708811-ai&layout=compact&theme=dark" alt="Linguagens mais usadas" />
 </p>
 
 ---
