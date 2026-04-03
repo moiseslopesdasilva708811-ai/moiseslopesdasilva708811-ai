@@ -3,14 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moiseslopesdasilva708811-ai&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmUxZWo4aDBrZHVpZW5meTRlYW51cG5rNHRraHU4cTlmcTRheml3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wpoLqr5FT1sY0/giphy.gif" width="480">
-</div>
-
-<div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmUxZWo4aDBrZHVpZW5meTRlYW51cG5rNHRraHU4cTlmcTRheml3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wpoLqr5FT1sY0/giphy.gif" width="480">
 </div>
 
