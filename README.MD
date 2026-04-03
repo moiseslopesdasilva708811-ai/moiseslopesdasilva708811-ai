@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Mois%C3%A9s+Lopes!+%F0%9F%91%8B;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Mois%C3%A9s+Lopes!+%F0%9F%91%8B;Engenheiro+de+Computa%C3%A7%C3%A3o+na+UFRN;Entusiasta+em+IA+%26+MLOps;" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moiseslopesdasilva708811-ai&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmUxZWo4aDBrZHVpZW5meTRlYW51cG5rNHRraHU4cTlmcTRheml3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wpoLqr5FT1sY0/giphy.gif" width="480">
 </div>
 
 <div align="center">
