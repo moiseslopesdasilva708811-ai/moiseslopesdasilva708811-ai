@@ -36,7 +36,14 @@ Sou um entusiasta de tecnologia focado em **Inteligência Artificial** e **MLOps
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moiseslopesdasilva708811-ai&layout=compact&theme=dark" alt="Linguagens mais usadas" />
 </p>
+
+
+###
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 
