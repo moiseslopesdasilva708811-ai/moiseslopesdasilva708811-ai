@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Mois%C3%A9s+Lopes!+%F0%9F%91%8B;Estudante+de+Computacao+na+UFRN;Entusiasta+em+IA+%26+MLOps;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mois%C3%A9s+Lopes!+%F0%9F%91%8B;Computer+Engineering+Student+@UFRN;AI+%26+MLOps+Enthusiast;" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,12 +10,12 @@
 
 <div align="center">
 
-### 🚀 Sobre mim
-> Sou um entusiasta de tecnologia focado em **Inteligência Artificial** e **MLOps**. Gosto de transformar dados brutos em insights inteligentes e modelos funcionais. Tenho experiência na programação de sistemas embarcados inovadores de baixo custo para a melhoria de automação de problemas diários no setor agrícola brasileiro.
+### 🚀 About Me
+> I am a technology enthusiast focused on **Artificial Intelligence** and **MLOps**. I enjoy transforming raw data into smart insights and functional models. I have experience programming innovative, low-cost embedded systems to improve automation for daily challenges in the Brazilian agricultural sector.
 
-🎓 **Graduação:** Cursando Engenharia de Computação na **UFRN**.
-📜 **Formação:** Técnico em Informática pelo **IFRN**.
-🎯 **Foco atual:** Deep Learning com PyTorch e automação de pipelines de dados.
+🎓 **Education:** Pursuing a B.S. in Computer Engineering at **UFRN**.
+📜 **Background:** Information Technology Technician from **IFRN**.
+🎯 **Current Focus:** Deep Learning with PyTorch and data pipeline automation.
 
 </div>
 
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -35,28 +35,23 @@
 
 <div align="center">
 
-### 📊 Estatísticas
+### 📊 Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=moiseslopesdasilva708811-ai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 <br>
 
-### 📫 Vamos nos conectar?
+### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moiseslopes7)
 
 </div>
 
 ---
 <div align="center">
-*“Os dados são o novo petróleo, mas a IA é a refinaria.”*
+*“Data is the new oil, but AI is the refinery.”*
 </div>
 
+<br>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizvictxz/luizvictxz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizvictxz/luizvictxz/output/pacman-contribution-graph.svg">
+<div align="center">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luizvictxz/luizvictxz/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+</div>
