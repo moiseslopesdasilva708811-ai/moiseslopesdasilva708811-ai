@@ -32,21 +32,6 @@ Sou um entusiasta de tecnologia focado em **Inteligência Artificial** e **MLOps
 
 ---
 
-### 📊 Meu GitHub em Números
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moiseslopesdasilva708811-ai&layout=compact&theme=dark" alt="Linguagens mais usadas" />
-</p>
-
-
-###
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
----
-
 ### 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USER_AQUI)
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://SEU_SITE_AQUI)
