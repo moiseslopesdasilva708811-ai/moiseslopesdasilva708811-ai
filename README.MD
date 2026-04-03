@@ -1,10 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Mois%C3%A9s+Lopes!+%F0%9F%91%8B;Engenheiro+de+Computa%C3%A7%C3%A3o+na+UFRN;Entusiasta+em+IA+%26+MLOps;Focado+em+Sistemas+Embarcados." alt="Typing SVG" />
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moiseslopesdasilva708811-ai&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-</div>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moiseslopesdasilva708811-ai&show_icons=true&theme=radical)
 ### 🚀 Sobre mim
 Sou um entusiasta de tecnologia focado em **Inteligência Artificial** e **MLOps**. Gosto de transformar dados brutos em insights inteligentes e modelos funcionais. Tenho experiência na programação de sistemas embarcados inovadores de baixo custo para a melhoria de automação de problemas diários no setor agrícola brasileiro.
 
