@@ -7,7 +7,8 @@
 ### 🚀 Sobre mim
 Sou um entusiasta de tecnologia focado em **Inteligência Artificial** e **MLOps**. Gosto de transformar dados brutos em insights inteligentes e modelos funcionais.
 
-- 🎓 **Formação:** Técnico em Informática.
+🎓 **Graduação:** Cursando **Engenharia de Computação** na Universidade Federal do Rio Grande do Norte (**UFRN**).
+- 🎓 **Formação:** Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte
 - 🎯 **Foco atual:** Deep Learning com PyTorch e automação de pipelines de dados.
 - ⚡ **Curiosidade:** Adoro resolver problemas complexos com soluções simples e escaláveis.
 
