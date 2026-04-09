@@ -4,17 +4,17 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-🎓 Computer Engineering Student at **UFRN**  
-💻 Background in Information Technology (**IFRN**)  
-📊 Focused on **Data Analysis, Machine Learning, and MLOps**  
+  Computer Engineering Student at **UFRN**  
+  Background in Information Technology (**IFRN**)  
+  Focused on **Data Analysis, Machine Learning, and MLOps**  
 
 I build **data pipelines, machine learning models, and intelligent systems** focused on real-world applications — especially in automation and low-cost solutions.
 
 ---
 
-## 🧠 Core Skills
+## Core Skills
 
 - **Languages:** Python, SQL  
 - **Data & AI:** Pandas, NumPy, Scikit-Learn, PyTorch  
@@ -24,7 +24,7 @@ I build **data pipelines, machine learning models, and intelligent systems** foc
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 🔹 **MLOps Pipeline with W&B**  
 End-to-end ML pipeline with experiment tracking, reproducibility, and model versioning.
@@ -37,7 +37,7 @@ Urban waste detection system using deep learning.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moiseslopesdasilva708811-ai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -45,7 +45,7 @@ Urban waste detection system using deep learning.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -65,7 +65,7 @@ Urban waste detection system using deep learning.
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 <div align="center">
 
@@ -75,7 +75,7 @@ Urban waste detection system using deep learning.
 
 ---
 
-## ⚡ Philosophy
+## Philosophy
 
 > “Data is the new oil, but AI is the refinery.”
 
