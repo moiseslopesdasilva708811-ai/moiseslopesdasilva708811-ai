@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Moisés Lopes 🤖⚡
+# Olá, eu sou o Moisés Lopes
 ### Software Engineer & AI Specialist
 *Do Firmware ao Deep Learning: Arquitetando o futuro da Inteligência Artificial.*
 
